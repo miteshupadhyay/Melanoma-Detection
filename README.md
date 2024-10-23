@@ -57,24 +57,10 @@ The data set contains the following diseases:
 
 ## Results
 
-### Baseline Model
-
-Accuracy and Loss charts for the baseline model
-![Alt text](Baseline%20model.png)
-
-### Augmented Model
-
-Accuracy and Loss charts for the augmented model
-![Alt text](Augmented%20model.png)
-
-### Final Model
-
-Accuracy and Loss charts for the final model
-![Alt text](Final%20model.png)
 
 # Conclusion
 
-As the accuracy of the model increases, the loss decreases. The final model has an accuracy of 87% and a loss of 0.3. The model is able to predict the class of the lesion with a high accuracy.
+As the accuracy of the model increases, the loss decreases. The final model has an accuracy of ardoun 90% . The model is able to predict the class of the lesion with a high accuracy.
 Augmenting the data and countering class imbalance helped in improving the accuracy of the model.
 
 # Technologies Used
@@ -88,10 +74,5 @@ Augmenting the data and countering class imbalance helped in improving the accur
 
 # Contact
 
-Created by [@sukhijapiyush] - feel free to contact me!
+Created by [@miteshupadhyay] - feel free to contact me!
 
-# License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
